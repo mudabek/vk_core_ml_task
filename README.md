@@ -1,2 +1,2 @@
-# Collaborative and Hybrid Recommendation systems
+# Collaborative and Hybrid Recommendation Systems
 ### VK Core ML Team Internship Task
